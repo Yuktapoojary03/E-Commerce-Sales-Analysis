@@ -11,11 +11,11 @@ Monthly Sales Trend Analysis
 Data Visualization using Matplotlib
 
 # Tools & Technologies
-Python
-Pandas
-Excel
-Matplotlib
-Project Outcome
+- Python
+- Pandas
+- Excel
+- Matplotlib
+- Project Outcome
 
 Generated actionable insights by identifying high-revenue products, profitable categories, and sales trends, enabling better business decision-making and strategic planning.
 
